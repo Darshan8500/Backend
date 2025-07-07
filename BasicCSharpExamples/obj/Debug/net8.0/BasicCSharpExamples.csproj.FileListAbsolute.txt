@@ -1,0 +1,14 @@
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\bin\Debug\net8.0\BasicCSharpExamples.exe
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\bin\Debug\net8.0\BasicCSharpExamples.deps.json
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\bin\Debug\net8.0\BasicCSharpExamples.runtimeconfig.json
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\bin\Debug\net8.0\BasicCSharpExamples.dll
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\bin\Debug\net8.0\BasicCSharpExamples.pdb
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\BasicCSharpExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\BasicCSharpExamples.AssemblyInfoInputs.cache
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\BasicCSharpExamples.AssemblyInfo.cs
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\BasicCSharpExamples.csproj.CoreCompileInputs.cache
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\BasicCSharpExamples.dll
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\refint\BasicCSharpExamples.dll
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\BasicCSharpExamples.pdb
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\BasicCSharpExamples.genruntimeconfig.cache
+C:\Users\PANKAJ\Desktop\VHP\Backend\BasicCSharpExamples\obj\Debug\net8.0\ref\BasicCSharpExamples.dll
