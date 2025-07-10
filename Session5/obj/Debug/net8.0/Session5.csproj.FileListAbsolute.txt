@@ -1,0 +1,15 @@
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\Session5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\Session5.AssemblyInfoInputs.cache
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\Session5.AssemblyInfo.cs
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\Session5.csproj.CoreCompileInputs.cache
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\Session5.sourcelink.json
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\bin\Debug\net8.0\Session5.exe
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\bin\Debug\net8.0\Session5.deps.json
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\bin\Debug\net8.0\Session5.runtimeconfig.json
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\bin\Debug\net8.0\Session5.dll
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\bin\Debug\net8.0\Session5.pdb
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\Session5.dll
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\refint\Session5.dll
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\Session5.pdb
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\Session5.genruntimeconfig.cache
+C:\Users\PANKAJ\Desktop\VHP\Backend\Session5\obj\Debug\net8.0\ref\Session5.dll
